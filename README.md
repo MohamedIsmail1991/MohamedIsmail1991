@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohamed Ismail
+- 👀 I’m interested in Embedded System
+- 🌱 I’m currently studying master in mechatronic
+- 📫 How to reach me (mohamed.fouad@outlook.de)
